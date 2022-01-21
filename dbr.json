@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"name": "Archivo 1",
+		"date": "19/01/2022",
+		"pad": "http://repositorio.ub.edu.ar/bitstream/handle/123456789/5213/FInform-502-U4-7-TiposdeSw-2015.pdf?sequence=1&isAllowed=y"
+	},
+	{
+		"id": 2,
+		"name": "Archivo 2",
+		"date": "19/01/2022",
+		"pad": "https://ocw.unizar.es/ocw/ensenanzas-tecnicas/fundamentos-de-informatica-grado-de-ingenieria-mecanica/Temas/tema_2software.pdf"
+	},
+	{
+		"id": 3,
+		"name": "Archivo 3",
+		"date": "19/01/2022",
+		"pad": "https://www.chaparral-tolima.gov.co/NuestraAlcaldia/SaladePrensa/PublishingImages/Paginas/autocapacitaciones-talento-humano-tic-gel-alcaldia-chaparral-tolima/material%202%20Hardware%20y%20Software.pdf"
+	}
+]
